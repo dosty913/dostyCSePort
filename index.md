@@ -60,3 +60,18 @@ This aspect of coding makes a lot of sense to me, only more and more as time goe
 ### Project Inclusion:
 The gameplan I had going into this project was to take a dataset we used in CS-260, in which we used a binary search tree to show how efficiency differs based on database type/size and certain types of algorithms. The plan was to utilize this project that began as a C++ product and convert it into a python program, as we did in a similar fashion in another class in this program. The other class utilized a virtual desktop that used Jupyter Notebook to implement a python dashboard setup, for my project in this class I did not have access to this virtual setup any longer so I had to improvise. So in general I utilized parts of two separate projects and had to adjust quite a few aspects of both to make my idea come to life.
 
+##[Chosen Artifact](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Project%20Artifact%20Originals)
+
+My chosen artifact is a combination of multiple pieces from two separate projects from a Data Structures and Algorithms class and a Client/Server Development class.
+
+##[Code Review](https://youtu.be/SC0m1rEngxs)
+
+## Enhancements and Reflections:
+
+The artifact that I have chosen for refinement and enhancement in terms of software design and engineering is the BinarySearchTree project from CS-260 Data Structures and Algorithms that I took back in early 2020. I decided to use this project as it seemed like the best choice to meet all the criteria involved, I see a way to tie it together with all three of the enhancement categories. It was originally a C++ project, and I will be converting it into a python product in Visual Studio 2019, as this project can be enhanced and fine-tuned a bit and I think that would be better suited for ease and readability if done in python. These skills will align to CS-499-04 as I will show the ability to use innovative techniques, skills, and tools with an updated and easy to use development environment.
+
+I mentioned in the previous paragraph I have chosen to use the BinarySearchTree project for my enhancements, in terms of algorithms and data structure I plan to restructure the program by creating a separate python module designed for C.R.U.D implementation that is then called into the program. It will be setup to connect to the dataset that requires authentication which gives a security aspect to the program and will allow for actual editing of the dataset whereas before once the program would close it did not save any of the edits performed. These enhancements align with CS-499-03 as well as CS-499-05.
+
+The BinarySearchTree project that I will be enhancing utilizes a dataset in the form of a .csv which I plan to use with MongoDB which requires permissions to access. This will allow the database to be edited properly and provide a better visual representation when performing searches or editing. The program will also be run through a dashboard that will be like one learned from CS-340 Client/Server Development, where there is more of a GUI which will give users a better experience overall.
+
+With all these planned enhancements/updates, I will be using skills that involve designing professional-quality program aspects that better suit users compared to the considerably basic C++ program that it began as. It will also involve updating to a newer easier to read and edit programming language, utilizing a newer development environment that is also more user friendly and will setup for possibly more updates down the road. Updating the program setup to add in security features is a good first step in keeping the right mindset to prevent exploits or vulnerabilities down the line.
