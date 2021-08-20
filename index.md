@@ -1,5 +1,3 @@
-### WORK IN PROGRESS
-
 ### Self-Assessment 
 
 Before starting my education at SNHU, I had very little experience in the computer science field. I had always had an interest in the area but never really explored it more than simple things at home tinkering with my computer, this program has made my wish of knowledge in this field more of a reality. I kind of like that I started from nothing coming into the program, it seemed like I was in some way behind most of the time and I felt that it kind of game me drive to try and keep up more maybe. Learning about all of the different languages and how they have progressed in a lot of ways has tought me the value of improvement and innovation. This makes me think of the valuable and important standards within this field, some of which are flexibilitiy and resourcefullness, without such things it would take much longer to improve and progress. Learning about databases, structures, algorithms has opened my mind to how things work in this digital world I find myself thinking about how an application or feature of a website is setup or works. 
