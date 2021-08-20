@@ -20,11 +20,11 @@ This aspect of coding makes a lot of sense to me, only more and more as time goe
 ### Project Inclusion:
 The gameplan I had going into this project was to take a dataset we used in CS-260, in which we used a binary search tree to show how efficiency differs based on database type/size and certain types of algorithms. The plan was to utilize this project that began as a C++ product and convert it into a python program, as we did in a similar fashion in another class in this program. The other class utilized a virtual desktop that used Jupyter Notebook to implement a python dashboard setup, for my project in this class I did not have access to this virtual setup any longer so I had to improvise. So in general I utilized parts of two separate projects and had to adjust quite a few aspects of both to make my idea come to life.
 
-##[Chosen Artifact](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Project%20Artifact%20Originals)
+###[     Link to Chosen Artifact](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Project%20Artifact%20Originals)
 
 My chosen artifact is a combination of multiple pieces from two separate projects from a Data Structures and Algorithms class and a Client/Server Development class.
 
-##[Code Review](https://youtu.be/SC0m1rEngxs)
+###[     Link to my Code Review](https://youtu.be/SC0m1rEngxs)
 
 ## Enhancements and Reflections:
 
