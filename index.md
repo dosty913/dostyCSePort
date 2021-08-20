@@ -1,41 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dosty913/dostyCSePort/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dosty913/dostyCSePort/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 ### WORK IN PROGRESS
 
 ### Self-Assessment 
@@ -75,3 +37,12 @@ I mentioned in the previous paragraph I have chosen to use the BinarySearchTree 
 The BinarySearchTree project that I will be enhancing utilizes a dataset in the form of a .csv which I plan to use with MongoDB which requires permissions to access. This will allow the database to be edited properly and provide a better visual representation when performing searches or editing. The program will also be run through a dashboard that will be like one learned from CS-340 Client/Server Development, where there is more of a GUI which will give users a better experience overall.
 
 With all these planned enhancements/updates, I will be using skills that involve designing professional-quality program aspects that better suit users compared to the considerably basic C++ program that it began as. It will also involve updating to a newer easier to read and edit programming language, utilizing a newer development environment that is also more user friendly and will setup for possibly more updates down the road. Updating the program setup to add in security features is a good first step in keeping the right mindset to prevent exploits or vulnerabilities down the line.
+
+## [Enhancement One Reflection:](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Ostrin%20eBids%20Project%20%20Milestone%20Two)
+For this enhancement I was working to take a project out of C++ in a development environment we utilzied on a virtual machine, brining it out of the virtual environment and make it into a python product using Visual Studio 2019. This was definetely the easiest enhancement I chose for this project as converting from C++ to python at least for this project was not too bad generally. There were more elements to this project that I would be converting but not with languages necessarily but with development environments, in which proved slightly more difficult than I had anticipated.
+
+## [Enhancement Two Reflection:](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Ostrin%20eBids%20Project%20%20Milestone%20Three)
+My idea for this enhancement was to bring over the CRUD code we had from the CS-340 class that was used to manipulate an animal shelter dataset, as it also used a system similar to what I wanted for this project. I would be pulling in these functions from a seperate python product as it would also be where the login credentials would be utlizied to access the Mongodb that we would be using for our dataset for this product. The CRUD functions themselves were not hard to bring in and connect to this program, the difficult part proved to be how exactly parts from enhancement three would tie into the program and give a proper display as required.
+
+## [Enhancement Three Reflection:](https://github.com/dosty913/dostyCSePort/tree/gh-pages/Ostrin%20eBids%20Project%20%20Milestone%20Four)
+Bringing all of these enhancements and pieces of these products together would in turn be the idea for my enhancement three, where overall the dataset we used for our CS-260 class which holds information about a bids system at an auction would be put into a Mongodb. I ended up using Mongodb Atlas as it seemed like a easier choice for this project compared to housing the acutal database on my personal computer as this way anyone would be able to access it. That combined with a dashboard setup to display and show this information in a graphical interface as opposed to a basic text database format, I had planned more options I wanted that would enable more actual editing possibilities but to be honest I could not get them right in time to turn this in before the class ends. I was trying to implement a menu system that would display with the data with a drop down system to be able to add/edit/delete information as required, I then went to try and implement a similar system within the dataframe that would allow editing without the need for a dropdown system, but with life and time constraints I was only able to implement sorting and deleting. I was on my way to getting these items done but just ran out of time.
